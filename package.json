@@ -2,9 +2,10 @@
   "name": "03_professional_setup",
   "version": "1.0.1",
   "description": "A proffessional setup industry level",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "backend",
@@ -12,5 +13,8 @@
     "industry"
   ],
   "author": "pradip",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
