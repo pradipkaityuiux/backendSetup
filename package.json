@@ -1,0 +1,16 @@
+{
+  "name": "03_professional_setup",
+  "version": "1.0.1",
+  "description": "A proffessional setup industry level",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "frontend",
+    "industry"
+  ],
+  "author": "pradip",
+  "license": "ISC"
+}
